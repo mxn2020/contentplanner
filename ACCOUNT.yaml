@@ -1,0 +1,12 @@
+services:
+  convex:
+    project: ContentPlanner
+  vercel:
+    project: ContentPlanner
+  stripe:
+    mode: live
+  nvidia:
+    api: nvidia-nims
+  github:
+    owner: mxn2020
+    repo: contentplanner
