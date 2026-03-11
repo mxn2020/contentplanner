@@ -1,16 +1,18 @@
-id: 4ad2240f-a193-4955-a443-2215df647e74
 name: contentplanner
-description: "Social media strategist with content pillars and posting calendar"
+project_scope: main
+project_type: standalone
+description: Social media strategist with content pillars and posting calendar
 tier: prototype
 lane: side-projects
 priority: low
-category: text
-focus: false
-open_tasks: 0
 oss: false
 stack: [typescript, react, convex, vite]
-repo: https://github.com/mxn2020/contentplanner
+repo: "https://github.com/mxn2020/contentplanner"
 deploy_url: null
 last_active: 2026-03-02
-tags: [ai, convex]
-notes:
+tags: [ai, convex, content, social-media, calendar, planning, strategy]
+notes: null
+category: webapp
+focus: false
+open_tasks: 0
+id: 4ad2240f-a193-4955-a443-2215df647e74
